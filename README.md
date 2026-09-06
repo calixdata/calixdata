@@ -4,8 +4,6 @@
 
 I work where the hard part is not the CRUD, it is the rules: consumer reporting under the FCRA, healthcare claims and eligibility over X12 EDI, court reporting and legal records, employment verification, AI decision governance. In those domains a wrong answer is not a bug report, it is a compliance event. I design and build the whole path from the regulation to the interface.
 
-Currently a Claims Associate at Garner Health, working in claims adjudication, ICD and CPT coding, and EDI. That is where the healthcare work below comes from. The rest comes from building the thing I could not find.
-
 ---
 
 ## Selected work

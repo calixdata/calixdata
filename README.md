@@ -15,8 +15,8 @@ Everything below is live and reachable right now. Most of the source is private,
 | Product | What it is | Live |
 | --- | --- | --- |
 | Falcyn | Transcript compliance and legal operations platform for court reporting agencies. Multi tenant, role based access, SLA clocks tied to statutory deadlines. | [falcyn.dev](https://falcyn.dev) |
-| Stenova | Consumer reporting agency for court reporters, built to FCRA process: dispute intake, 30 day resolution clocks, reason codes, adverse action handling. | [stenova.pages.dev](https://stenova.pages.dev) |
-| Courtify | Agency operations and reporter marketplace: intake, certification with content hashing, delivery, rate transparency. | [courtify.pages.dev](https://courtify.pages.dev) |
+| Stenova | Consumer reporting agency for court reporters, built to FCRA process: dispute intake, 30 day resolution clocks, reason codes, adverse action handling. | [stenova.net](https://stenova.net) |
+| Courtify | Agency operations and reporter marketplace: intake, certification with content hashing, delivery, rate transparency. | [getcourtify.com](https://getcourtify.com) |
 | Attestry | Employer network employment verification, built as a competitor to the incumbent work number model. | [attestry.net](https://attestry.net) |
 
 ### Healthcare and claims

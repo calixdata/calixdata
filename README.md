@@ -30,7 +30,7 @@ Everything below is live and reachable right now. Most of the source is private,
 
 | Product | What it is | Live |
 | --- | --- | --- |
-| Sluice | Governance control plane for AI agents operating against Snowflake and Databricks, including per agent cost ceilings. | [sluice.hi-3e9.workers.dev](https://sluice.hi-3e9.workers.dev) |
+| Sluice | One governance checkpoint between AI agents and your data warehouse: cap spend, redact PII, block restricted access, sign every request. | [gosluice.com](https://gosluice.com) |
 | PharOSai | A sentinel for desktop AI agents. Finds runaway and background agent processes, names what is holding a file lock, and stops a process and its restart loop. Complements antivirus rather than replacing it. | [pharosai.co](https://pharosai.co) |
 | Stakt | Stacked multi model search with a warrant chain adjudicator, so an answer carries the reasoning that justified it. | [stakt.net](https://stakt.net) |
 
